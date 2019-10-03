@@ -6,5 +6,5 @@ CXX_FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/Ma
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I"/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/." -I"/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225" -I"/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/catch" -I"/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/ColorSpace" -I"/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/lodepng" -I"/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/tests" -I"/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/util" 
+CXX_INCLUDES = -I/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/. -I/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225 -I/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/catch -I/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/ColorSpace -I/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/lodepng -I/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/tests -I/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/util 
 

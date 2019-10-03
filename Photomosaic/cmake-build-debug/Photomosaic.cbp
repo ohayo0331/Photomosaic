@@ -8,49 +8,49 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cmake-build-debug"/>
+				<Option working_dir="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Desktop/大学時代/CS\ 225/cs225git/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Desktop/大学時代/CS\ 225/cs225git/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Desktop/大学時代/CS\ 225/cs225git/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Desktop/大学時代/CS\ 225/cs225git/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cmake-build-debug"/>
+				<Option working_dir="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Desktop/大学時代/CS\ 225/cs225git/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Desktop/大学時代/CS\ 225/cs225git/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Desktop/大学時代/CS\ 225/cs225git/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Desktop/大学時代/CS\ 225/cs225git/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cmake-build-debug"/>
+				<Option working_dir="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Desktop/大学時代/CS\ 225/cs225git/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Desktop/大学時代/CS\ 225/cs225git/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Desktop/大学時代/CS\ 225/cs225git/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Desktop/大学時代/CS\ 225/cs225git/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Photomosaic">
-				<Option output="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cmake-build-debug/Photomosaic" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cmake-build-debug"/>
+				<Option output="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Photomosaic" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/."/>
-					<Add directory="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225"/>
-					<Add directory="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/catch"/>
-					<Add directory="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/ColorSpace"/>
-					<Add directory="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/lodepng"/>
-					<Add directory="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/tests"/>
-					<Add directory="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/util"/>
+					<Add directory="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/."/>
+					<Add directory="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225"/>
+					<Add directory="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/catch"/>
+					<Add directory="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/ColorSpace"/>
+					<Add directory="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/lodepng"/>
+					<Add directory="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/tests"/>
+					<Add directory="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/util"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
@@ -59,26 +59,26 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Desktop/大学時代/CS\ 225/cs225git/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 Photomosaic"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Desktop/大学時代/CS\ 225/cs225git/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Desktop/大学時代/CS\ 225/cs225git/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Desktop/大学時代/CS\ 225/cs225git/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 Photomosaic"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Photomosaic/fast">
-				<Option output="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cmake-build-debug/Photomosaic" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cmake-build-debug"/>
+				<Option output="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Photomosaic" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/."/>
-					<Add directory="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225"/>
-					<Add directory="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/catch"/>
-					<Add directory="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/ColorSpace"/>
-					<Add directory="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/lodepng"/>
-					<Add directory="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/tests"/>
-					<Add directory="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/util"/>
+					<Add directory="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/."/>
+					<Add directory="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225"/>
+					<Add directory="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/catch"/>
+					<Add directory="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/ColorSpace"/>
+					<Add directory="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/lodepng"/>
+					<Add directory="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/tests"/>
+					<Add directory="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/util"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
@@ -87,137 +87,137 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Desktop/大学時代/CS\ 225/cs225git/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 Photomosaic/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Desktop/大学時代/CS\ 225/cs225git/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Desktop/大学時代/CS\ 225/cs225git/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Desktop/大学時代/CS\ 225/cs225git/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 Photomosaic/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/ColorSpace/ColorSpace.cpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/ColorSpace/ColorSpace.cpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/ColorSpace/ColorSpace.h">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/ColorSpace/ColorSpace.h">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/ColorSpace/Comparison.cpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/ColorSpace/Comparison.cpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/ColorSpace/Comparison.h">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/ColorSpace/Comparison.h">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/ColorSpace/Conversion.cpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/ColorSpace/Conversion.cpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/ColorSpace/Conversion.h">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/ColorSpace/Conversion.h">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/ColorSpace/Utils.h">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/ColorSpace/Utils.h">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/HSLAPixel.cpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/HSLAPixel.cpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/HSLAPixel.h">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/HSLAPixel.h">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/LUVAPixel.cpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/LUVAPixel.cpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/LUVAPixel.h">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/LUVAPixel.h">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/PNG.cpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/PNG.cpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/PNG.h">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/PNG.h">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/RGB_HSL.h">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/RGB_HSL.h">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/RGB_LUV.h">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/RGB_LUV.h">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/catch/catch.hpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/catch/catch.hpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/catch/catchmain.cpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/catch/catchmain.cpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/lodepng/lodepng.cpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/lodepng/lodepng.cpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cs225/lodepng/lodepng.h">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cs225/lodepng/lodepng.h">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/kdtree.h">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/kdtree.h">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/kdtree.hpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/kdtree.hpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/kdtree_extras.hpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/kdtree_extras.hpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/main.cpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/main.cpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/maptiles.cpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/maptiles.cpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/maptiles.h">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/maptiles.h">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/mosaiccanvas.cpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/mosaiccanvas.cpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/mosaiccanvas.h">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/mosaiccanvas.h">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/point.cpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/point.cpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/point.h">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/point.h">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/sourceimage.cpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/sourceimage.cpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/sourceimage.h">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/sourceimage.h">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/tests/tests_part1.cpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/tests/tests_part1.cpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/tests/tests_part1.h">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/tests/tests_part1.h">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/tests/tests_part2.cpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/tests/tests_part2.cpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/tileimage.cpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/tileimage.cpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/tileimage.h">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/tileimage.h">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/util/coloredout.cpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/util/coloredout.cpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/util/coloredout.h">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/util/coloredout.h">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/util/no_sort.h">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/util/no_sort.h">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/util/util.cpp">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/util/util.cpp">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/util/util.h">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/util/util.h">
 			<Option target="Photomosaic"/>
 		</Unit>
-		<Unit filename="/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/CMakeLists.txt">
+		<Unit filename="/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

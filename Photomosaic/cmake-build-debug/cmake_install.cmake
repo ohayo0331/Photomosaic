@@ -1,4 +1,4 @@
-# Install script for directory: /Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic
+# Install script for directory: /Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/yanghangyi/Desktop/大学時代/CS 225/cs225git/Photomosaic/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/yanghangyi/Documents/GitHub/Photomosaic/Photomosaic/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
